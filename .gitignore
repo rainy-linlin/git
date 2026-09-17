@@ -1,0 +1,14 @@
+# WorkBuddy 工作区数据（本地记忆、缓存等），不要提交
+.workbuddy/
+
+# 系统与编辑器
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
+.idea/
+
+# 临时文件
+*.log
+*.tmp
+*~
