@@ -5,7 +5,7 @@
 ## 开始使用
 
 ```bash
-git clone https://github.com/may-be-y/git.git
+git clone https://github.com/rainy-linlin/git.git
 cd git
 ```
 
